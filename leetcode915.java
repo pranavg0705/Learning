@@ -1,4 +1,4 @@
-class leetcode915 {
+class Solution {
     public int partitionDisjoint(int[] nums) {
         int n = nums.length;
         int i, max = nums[0], pos = 0;
